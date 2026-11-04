@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.user
+*.suo
+.preview/
+draws.json
+draws.csv
+result.txt
+result.csv
+!docs/examples/result.txt
+!docs/examples/result.csv
